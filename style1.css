@@ -1,0 +1,72 @@
+.treats{
+    text-align: center;
+    font-family: cursive;
+}
+
+.card-title{
+    font-size: 22px;
+}
+
+.card{
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 10px 5px rgb(219, 219, 219);
+    transition-duration: 1s;
+    overflow: hidden;
+}
+
+.card:hover {
+    box-shadow: 1px 1px 10px 5px rgb(154, 154, 154);
+
+}
+
+.card:hover img{
+    transform: scale(1.1);
+}
+
+.card img{
+    transition-duration: 1s;
+}
+
+.carousel-item img{
+    height: 500px;
+}
+
+.party1{
+    padding: 30px;
+}
+
+.navbar-brand img{
+    width: 160px;
+}
+
+.nav-item{
+    font-size: 30px;
+}
+
+.aboutus h2{
+    margin-top:  35px;
+}
+.aboutus li{
+    margin-top: 15px;
+}
+
+.nav-link:hover{
+    background-color: antiquewhite;
+    padding: 11px;
+}
+
+.productslist{
+    text-align: center;
+    font-family: cursive;
+}
+
+.productslist li{
+    margin-top: 20px;
+
+}
+
+.flavourslist{
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+}
